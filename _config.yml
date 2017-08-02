@@ -14,11 +14,11 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: masonsuyan
-weibo: suyan0830
-github: suyan
+twitter: ycluo
+# weibo: 
+github: kouok 
 instagram: suyan0830
-linkedin: suyan0830
+# linkedin: suyan0830
 
 # avatar and Favicon
 avatar: https://avatars2.githubusercontent.com/u/11538249?v=4&s=460
@@ -26,7 +26,7 @@ favicon: http://www.iplayseo.com/wp-content/themes/iplayseo/images/favicon.ico
 
 # disqus config
 disqus:
-  shortname: suyan-zh
+  shortname: kouok
 
 # google analytics config
 ga:
