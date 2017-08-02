@@ -17,7 +17,7 @@ recent_num: 20
 twitter: ycluo
 # weibo: 
 github: kouok 
-instagram: suyan0830
+instagram: ycluo
 # linkedin: suyan0830
 
 # avatar and Favicon
@@ -30,8 +30,8 @@ disqus:
 
 # google analytics config
 ga:
-  # id: UA-54767140-1
-  # url: yansu.org
+  id: UA-21388954-1
+  url: www.kouok.net
 
 # Build settings
 permalink: /:year/:month/:day/:title.html

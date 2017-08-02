@@ -2,6 +2,10 @@
 
 地址：[http://www.kouok.net](http://www.kouok.net)
 
+这是我在GitHub上的博客。然后绑定了域名地址。
+
+我的另外一个使用WordPress搭建的博客地址是： [IPLAYSEO BLOG](http://www.iplayseo.com)
+
 ### 安装说明
 
 1. fork库到自己的github
@@ -16,3 +20,4 @@
 - 三栏布局（master分支，基于[3-Jekyll](https://github.com/P233/3-Jekyll)）
 - 三栏布局 (bootstrap-based分支，基于Bootstrap)
 - 单栏布局（first-ui分支，基于Bootstrap）
+- 主题将会二次开发
