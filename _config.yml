@@ -1,12 +1,12 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
+title: kouok的GitHub博客
+email: mr.kouok@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  kouok的GitHub博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: http://www.kouok.net # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: kouok
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -21,8 +21,8 @@ instagram: suyan0830
 linkedin: suyan0830
 
 # avatar and Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+avatar: https://avatars2.githubusercontent.com/u/11538249?v=4&s=460
+favicon: http://www.iplayseo.com/wp-content/themes/iplayseo/images/favicon.ico
 
 # disqus config
 disqus:
@@ -30,8 +30,8 @@ disqus:
 
 # google analytics config
 ga:
-  id: UA-54767140-1
-  url: yansu.org
+  # id: UA-54767140-1
+  # url: yansu.org
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
